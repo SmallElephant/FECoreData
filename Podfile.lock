@@ -1,0 +1,15 @@
+PODS:
+  - MagicalRecord (2.3.2):
+    - MagicalRecord/Core (= 2.3.2)
+  - MagicalRecord/Core (2.3.2)
+  - YYModel (1.0)
+
+DEPENDENCIES:
+  - MagicalRecord
+  - YYModel
+
+SPEC CHECKSUMS:
+  MagicalRecord: 53bed74b4323b930992a725be713e53b37d19755
+  YYModel: 27048a262b150c30e253f71776408e21d6efe8cc
+
+COCOAPODS: 0.39.0
